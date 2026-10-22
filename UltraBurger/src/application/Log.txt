@@ -1,0 +1,24 @@
+
+========== ORDER SUMMARY ==========
+Burger: INFERNO BURGER
+Customer: Rhony
+Price per burger: R$ 999.90
+Quantity: 3
+Total price: R$ 2999.70
+===================================
+
+========== ORDER SUMMARY ==========
+Burger: APOCALYPSE BURGER
+Customer: Alice
+Price per burger: R$ 149.90
+Quantity: 10
+Total price: R$ 1499.00
+===================================
+
+========== ORDER SUMMARY ==========
+Burger: TITAN BURGER
+Customer: Ismael
+Price per burger: R$ 299.90
+Quantity: 2
+Total price: R$ 599.80
+===================================
