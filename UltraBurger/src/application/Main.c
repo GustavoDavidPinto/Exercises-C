@@ -20,7 +20,7 @@ void Menu() {
         system("clear");
 
         printf("Menu:\n");
-        printf("1. Fazer pedidos | Lista de Combos\n");
+        printf("1. Lista de Combos\n");
         printf("2. Lista de Pedidos\n");
         printf("3. logs\n");
         printf("Enter your choice: ");
@@ -35,14 +35,7 @@ void Menu() {
             printf("2 - Lista de Pedidos\n");
             break;
         case 3:
-            FILE *file = fopen("Log.txt", "r");
-
-            while (!feof(file)) {
-                fgets(linha, sizeof(linha), file);
-                printf("%s", linha);
-            }
-            
-            fclose(file);
+          
             break;
         case 4:
             printf("Exiting...\n");

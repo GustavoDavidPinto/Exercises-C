@@ -22,3 +22,19 @@ Price per burger: R$ 299.90
 Quantity: 2
 Total price: R$ 599.80
 ===================================
+
+========== ORDER SUMMARY ==========
+Burger Selected: INFERNO BURGER
+Customer: Alice
+Price per burger: R$ 999.90
+Quantity: 20
+Total price: R$ 19998.00
+===================================
+
+========== ORDER SUMMARY ==========
+Burger Selected: APOCALYPSE BURGER
+Customer: Astoufo
+Price per burger: R$ 149.90
+Quantity: 30
+Total price: R$ 4497.00
+===================================
